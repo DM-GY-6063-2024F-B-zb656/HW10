@@ -1,3 +1,9 @@
+let  bulldog;
+
+function preload() {
+  bulldog = loadSound("../assets/bulldoglong.mp3");
+}
+
 function setup() {
   createCanvas(windowWidth, windowHeight);
 }
