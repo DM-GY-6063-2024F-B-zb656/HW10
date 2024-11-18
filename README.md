@@ -1,64 +1,8 @@
-# p5.js multi sketch template
-
-By putting different sketch.js and index.html files in directories we can more easily switch between multiple experiments.
-
----
-
-This is a README file that can be used to describe and document your assignment.
-
-Markdown Cheatsheet (from [https://www.markdownguide.org/cheat-sheet/](https://www.markdownguide.org/cheat-sheet/)):
-
----
----
-
-# Heading1
-## Heading2
-### Heading3
-#### Heading4
-##### Heading5
-###### Heading6
-
-**bold text**
-
-*italicized text*
-
-~~strikethrough text~~
-
-Ordered List:
-1. First item
-2. Second item
-3. Third item
-
-Unordered List:
-- First item
-- Second item
-- Third item
-
-`short code block`
-
-```
-extended code block
-fun() {
-  return 0
-}
-```
-
-Link:  
-[linked text](https://www.example.com)
+# Sketch 0
+For this sketch I used a clip of Hey Bulldog by The Beatles and created a levels visualizer for the different frequency ranges. 
 
 
-Image with url:  
-![image description](https://dm-gy-6063-2024f-b.github.io/assets/homework/02/clark-espaco-modulado-00.jpg)
+# Sketch 1/2
+So I believe I misunderstood the assignment at first and originally made an animated visualization with `getPeaks()`, and then realized that I was supposed to be making a static display, so I started over. I've kept the animated one as sketch 1, and the static display as sketch 2.
 
-
-Image on repo:  
-![image description](./file-name.jpg)
-
-
-To start a new line, add two spaces at the end of a line, like this:  
-this is a new line.
-
-
-To start a new paragraph, leave an empty line between two lines of text.
-
-This is a new paragraph.
+For the static display I used three Beatles songs: Hey Bulldog, Lovely Rita, and A Day in the Life. I made displays across the screen with a line representing each sample, with varying color intensities.
